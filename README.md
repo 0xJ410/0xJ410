@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+always open to new ideas.
+
 <!--
 **jhonlukecutay/jhonlukecutay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
