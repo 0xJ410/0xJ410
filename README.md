@@ -2,6 +2,8 @@
 
 always open to new ideas.
 
+* 💡 currently learning TypeScript and Tailwind CSS.
+
 <!--
 **jhonlukecutay/jhonlukecutay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
