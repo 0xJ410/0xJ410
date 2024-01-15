@@ -4,6 +4,7 @@ always open to new ideas.
 
 
 - 💡 Currently learning: React.JS, Tailwind CSS;
+- 👨‍💻 Working on: Converting my portfolio in ReactJS;
 
 <!--
 **jhonlukecutay/jhonlukecutay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
