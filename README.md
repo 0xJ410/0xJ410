@@ -3,7 +3,7 @@
 always open to new ideas.
 
 
-- 💡 Currently learning: React.JS, Tailwind CSS;
+- 💡 Currently learning: Vite + React.JS, Tailwind CSS;
 
 <!--
 **jhonlukecutay/jhonlukecutay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
